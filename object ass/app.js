@@ -19,8 +19,8 @@
 
 // var StudentInfo = {
 //   firstName: "Muhammad",
-//   lastName: "Wasi",
-//   email: "wasiarain819@gmail.com",
+//   lastName: "kashir waseem",
+//   email: "kashirwaseeem960@gmail.com",
 //   password: "12345678",
 //   age: 19,
 //   gender: "male",
@@ -47,7 +47,7 @@
 //   this.school = school;
 // }
 // //Create a Person Object
-// const Student1 = new Person("Muhammad", "Wasi", 19, 20405, "Saylani");
+// const Student1 = new Person("Muhammad", "kashir waseem", 19, 20405, "Saylani");
 // const Student2 = new Person("Adil", "Azmat", 22, 84834, "Axiom");
 // console.log(Student1, Student2);
 
@@ -62,7 +62,7 @@
 // }
 
 // const Peoples = new CheckPopulation(
-//   "Muhammad Wasi",
+//   "Muhammad kashir waseem",
 //   "Male",
 //   "johar mor",
 //   "bs cs",
